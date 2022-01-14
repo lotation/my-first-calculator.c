@@ -1,2 +1,2 @@
 # my-first-calculator.c
-My first calculator in C
+My first calculator written in C
